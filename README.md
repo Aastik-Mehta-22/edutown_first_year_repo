@@ -11,7 +11,7 @@ We welcome contributions from all students! If you have study materials, resourc
 
  🎉 Happy studying, and best of luck with your exams! If you have any questions or need assistance, feel free to reach out! 🎉
 
-# Team Members
+# Connect with us on linkedIn
 
 ## Aastik Mehta
 [Aastik Mehta](https://www.linkedin.com/in/aastik-mehta-145a50258/)
