@@ -10,3 +10,11 @@ We welcome contributions from all students! If you have study materials, resourc
 
 
  🎉 Happy studying, and best of luck with your exams! If you have any questions or need assistance, feel free to reach out! 🎉
+
+# Team Members
+
+## Aastik Mehta
+[Name of Person 1](https://www.linkedin.com/in/aastik-mehta-145a50258/)
+
+## Tanishq Goyal
+[Name of Person 2](https://www.linkedin.com/in/tanishq-goyal-162975275/)
