@@ -14,7 +14,7 @@ We welcome contributions from all students! If you have study materials, resourc
 # Team Members
 
 ## Aastik Mehta
-[Name of Person 1](https://www.linkedin.com/in/aastik-mehta-145a50258/)
+[Aastik Mehta](https://www.linkedin.com/in/aastik-mehta-145a50258/)
 
 ## Tanishq Goyal
-[Name of Person 2](https://www.linkedin.com/in/tanishq-goyal-162975275/)
+[Tanishq Goyal](https://www.linkedin.com/in/tanishq-goyal-162975275/)
